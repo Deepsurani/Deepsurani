@@ -32,7 +32,7 @@ I’m a Full Stack Developer at Depple Soft Tech focused on designing and implem
 ---
 
 ## 💼 Experience
-Software Engineer — Depple Soft Tech
+Software Engineer — Depple Soft Tech  
 Building enterprise-grade backends and APIs, implementing layered architectures, and integrating services to deliver reliable production systems.
 
 (If you'd like, I can expand this with a short bullet list of responsibilities and achievements — share 2–4 highlights and I’ll add them.)
