@@ -65,14 +65,4 @@ Tip: pin the repositories you want to highlight on your GitHub profile so visito
 ---
 
 ## 🎯 What I’m Looking For
-Open to backend / full-stack roles, collaborations on API-first projects, and opportunities to improve architecture, reliability, and system integrations.
-
----
-
-## 🙋‍♂️ Next steps I can do for you
-- Replace placeholder projects with your real repositories (repo name + URL + one-line description).  
-- Expand the Experience section with responsibilities and achievements (paste 2–4 bullet points).  
-- Tune tone (casual, professional, playful) and length (short/medium/long bio).  
-- Add an animated header, profile GIF, or custom badges.
-
-Provide any items you want me to update (you can just list numbers or paste repo links) and I’ll regenerate a final README.md ready to paste into your profile.
+Open to backend / full-stack roles, collaborations on API-first projects, and opportunities to improve architecture, reliability, and system 
