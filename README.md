@@ -4,7 +4,7 @@
 
 [![Made With ❤︎](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)]()
 [![Status](https://img.shields.io/badge/Status-Open%20to%20opportunities-brightgreen)]()
-[![Tech](https://img.shields.io/badge/Tech-.NET%20%7C%20Python-blue)]()
+[![Tech](https://img.shields.io/badge/Tech-.NET%20%7C%20Python%20%7C%20mern-blue)]()
 
 ---
 
