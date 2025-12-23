@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I’m a Full Stack Developer at Depple Soft Tech focused on designing and implementing maintainable, scalable applications. I enjoy working on layered architectures (three-tier / n-tier), building resilient Web APIs, and delivering clean backend services.
+I’m a Full Stack Developer at Depple Soft Tech focused on designing and implementing maintainable, scalable applications. I enjoy working on layered architectures (three-tier / n-tier), building resilient backends and reliable APIs.
 
 - 🔭 Current role: Software Engineer — Depple Soft Tech  
 - 🌱 Primary focus: .NET, .NET Core, ADO.NET, ASP.NET Web API, three-tier & n-tier architecture, FastAPI, Flask  
@@ -28,6 +28,21 @@ I’m a Full Stack Developer at Depple Soft Tech focused on designing and implem
 - SQL Server / PostgreSQL
 - Docker & basic CI/CD (GitHub Actions)
 - System integration & microservices
+
+## 🧰 Skills
+A concise list of the tools and technologies I work with regularly (added from user's input):
+
+- Languages & Query: C#, Python, SQL, LINQ
+- Web & APIs: Web API, Web Services, AJAX, REST, OpenAPI/Swagger
+- .NET & Data Access: Entity Framework (EF Core), ADO.NET
+- Java/Jakarta EE: JSP, Servlet
+- Frontend & JS: React.js, AJAX
+- JavaScript runtime & frameworks: Node.js, Express.js
+- Databases: MongoDB, MS SQL Server, MySQL, PostgreSQL, Redis
+- DevOps & Containers: Docker, GitHub Actions, basic Kubernetes concepts
+- Authentication & Security: JWT, OAuth2, API security best practices
+- Testing & Quality: Unit testing, integration testing, TDD practices
+- Tools: Git, Postman, DBeaver, VS Code, Visual Studio
 
 ---
 
@@ -65,4 +80,4 @@ Tip: pin the repositories you want to highlight on your GitHub profile so visito
 ---
 
 ## 🎯 What I’m Looking For
-Open to backend / full-stack roles, collaborations on API-first projects, and opportunities to improve architecture, reliability, and system 
+Open to backend / full-stack roles, collaborations on API-first projects, and opportunities to improve architecture, reliability, and system
